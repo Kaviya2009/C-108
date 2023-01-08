@@ -1,0 +1,3 @@
+C-106 ( Teachable Machine Link )
+
+https://teachablemachine.withgoogle.com/models/H_ShdrRga5/
